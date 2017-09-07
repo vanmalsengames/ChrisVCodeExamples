@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PDFBoxParsingPractice</string>
+    <string name="main_activity_instructions">Upload a PDF File</string>
+</resources>
